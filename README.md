@@ -141,6 +141,7 @@ OPTIONS:
   -p PROVIDER         Filter by provider
   -h, --help          Show help message
 
+REGIONS:
   europe, north_america, asia_pacific, oceania, south_america, africa_middle_east, all
 
 EXAMPLES:
@@ -199,6 +200,7 @@ South Africa (Johannesburg), Israel (Tel Aviv), UAE (Dubai)
 **Debian/Ubuntu:**
 ```bash
 sudo apt install curl bc
+```
 
 **RHEL/CentOS/Fedora:**
 ```bash
